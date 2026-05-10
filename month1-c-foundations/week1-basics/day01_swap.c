@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int a,b,temp;
 int main() {
     printf("Enter a: ");
