@@ -7,10 +7,8 @@ char c;
 int main() {
     printf("Enter first number: ");
     scanf("%d", &a);
-    
     printf("Enter second number: ");
     scanf("%d", &b);
-    
     printf("Enter operator (+, -, *, /): ");
     scanf(" %c", &c); 
     
